@@ -1,1 +1,1 @@
-This is a practice project to improve my HTML skills.
+This is a practice project to improve my HTML and CSS skills.
