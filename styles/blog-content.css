@@ -1,0 +1,51 @@
+.blog-title {
+  font-size: 36px;
+  color: #2b2d38;
+  font-weight: 600;
+  margin-bottom: 36px;
+}
+
+.section-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2b2d38;
+  margin-top: 50px;
+}
+
+.subsection-title {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  color: #2b2d38;
+  margin-top: 28px;
+}
+
+li {
+  line-height: 28px;
+  font-size: 18px;
+  color: #3b3e4d;
+  margin-bottom: 12px;
+}
+
+ul {
+  padding-left: 22px;
+}
+
+.related-articles-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2b2d38;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+a.related-link {
+  display: block;
+  font-weight: none;
+  color: #1c1e29;
+  font-size: 18px;
+  text-decoration: none;
+  line-height: 26px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
